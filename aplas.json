@@ -1,21 +1,25 @@
 {
-  "id": "onpoint_portal",
-  "name": "OnPoint Portal",
-  "categoryId": "administration",
-  "description": "Object-based multimedia attitude",
-  "investment_24m": "622",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "140",
-  "status_color": "#00FF00",
-  "type": "InHouseDev",
-  "support_cost": "48",
-  "deployment_date": "13/4/17",
-  "end_of_maintenance": "7/6/17",
-  "department": "Research and Development",
-  "status": "Active",
-  "end_of_life": "14/6/19",
-  "sme_name": "Marie-ann Kliement",
-  "months_to_renew_support": "27",
-  "sme_email": "Marie-ann.Kliement@memento.net.au",
-  "investment_number": "434"
+  "applications": [
+    {
+      "id": "onpoint_portal",
+      "name": "OnPoint Portal",
+      "categoryId": "administration",
+      "description": "Object-based multimedia attitude",
+      "investment_24m": "622",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "140",
+      "status_color": "#00FF00",
+      "type": "InHouseDev",
+      "support_cost": "48",
+      "deployment_date": "13/4/17",
+      "end_of_maintenance": "7/6/17",
+      "department": "Research and Development",
+      "status": "Active",
+      "end_of_life": "14/6/19",
+      "sme_name": "Marie-ann Kliement",
+      "months_to_renew_support": "27",
+      "sme_email": "Marie-ann.Kliement@memento.net.au",
+      "investment_number": "434"
+    }
+  ]
 }
