@@ -9,24 +9,23 @@
       "description": "Object-based multimedia attitude",
       "categoryId": "administration",
       "applicationSize": "large",
-      "status": "standard",
       "licensing_cost": "140",
       "status_color": "#00FF00",
       "department": "Research and Development",
       "hostedtype": "OnPremise",
       "deployment_date": "13/4/17",
-      "investment_number": "434",
+      "investment_number": 434,
       "type": "InHouseDev",
       "sme_email": "Marie-ann.Kliement@memento.net.au",
       "investment_24m": "622",
       "sme_name": "Marie-ann Kliement",
       "support_cost": "48",
       "end_of_life": "14/6/19",
-      "months_to_renew_support": "27",
+      "months_to_renew_support": 27,
       "end_of_maintenance": "7/6/17",
       "integrations": [
         {
-          "assetId": "int-068",
+          "id": "int-068",
           "name": "INT-068",
           "shortName": null,
           "version": "0.6.5",
@@ -34,7 +33,6 @@
           "payload": "Arthur Growth Extract Cost and Retail Extract",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Maridel Finlan",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -47,7 +45,7 @@
           "golive_date": "23/12/02"
         },
         {
-          "assetId": "int-476",
+          "id": "int-476",
           "name": "INT-476",
           "shortName": null,
           "version": "3.3.2",
@@ -55,7 +53,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Tonya Oldcroft",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -68,7 +65,7 @@
           "golive_date": "9/6/08"
         },
         {
-          "assetId": "int-012",
+          "id": "int-012",
           "name": "INT-012",
           "shortName": null,
           "version": "0.8.6",
@@ -76,7 +73,6 @@
           "payload": "Display - SPL",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Maridel Finlan",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -89,7 +85,7 @@
           "golive_date": "11/4/04"
         },
         {
-          "assetId": "int-295",
+          "id": "int-295",
           "name": "INT-295",
           "shortName": null,
           "version": "4.2",
@@ -97,7 +93,6 @@
           "payload": "Product Ranging, status, type",
           "targetApplicationId": "herding_sync-up",
           "categoryId": "ftp",
-          "status": "standard",
           "sme_name": "Matelda Nuss",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -110,7 +105,7 @@
           "golive_date": "27/8/11"
         },
         {
-          "assetId": "int-290",
+          "id": "int-290",
           "name": "INT-290",
           "shortName": null,
           "version": "0.8.6",
@@ -118,7 +113,6 @@
           "payload": "Document - RCTI PDF",
           "targetApplicationId": "social_innovation",
           "categoryId": "cron",
-          "status": "standard",
           "sme_name": "Tonya Oldcroft",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -131,7 +125,7 @@
           "golive_date": "25/1/02"
         },
         {
-          "assetId": "int-270",
+          "id": "int-270",
           "name": "INT-270",
           "shortName": null,
           "version": "4.65",
@@ -139,7 +133,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "visibility_agile",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Andie MacVanamy",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -152,7 +145,7 @@
           "golive_date": "13/4/11"
         },
         {
-          "assetId": "int-113",
+          "id": "int-113",
           "name": "INT-113",
           "shortName": null,
           "version": "0.5.8",
@@ -160,7 +153,6 @@
           "payload": "Customer",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Preston Shortland",
           "decom_date": "4/6/14",
           "status_color": "#FF0000",
@@ -174,7 +166,7 @@
           "golive_date": "15/1/02"
         },
         {
-          "assetId": "int-042",
+          "id": "int-042",
           "name": "INT-042",
           "shortName": null,
           "version": "2.66",
@@ -182,7 +174,6 @@
           "payload": "Product Data Refresh",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Hannis Pantin",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -195,7 +186,7 @@
           "golive_date": "14/2/09"
         },
         {
-          "assetId": "int-437",
+          "id": "int-437",
           "name": "INT-437",
           "shortName": null,
           "version": "0.67",
@@ -203,7 +194,6 @@
           "payload": "Review Schedule ",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Lee Brelsford",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -216,7 +206,7 @@
           "golive_date": "16/9/15"
         },
         {
-          "assetId": "int-482",
+          "id": "int-482",
           "name": "INT-482",
           "shortName": null,
           "version": "7.3.9",
@@ -224,7 +214,6 @@
           "payload": "cNcStatusUpdate",
           "targetApplicationId": "social_innovation",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Alfy Greader",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -237,7 +226,7 @@
           "golive_date": "5/4/06"
         },
         {
-          "assetId": "int-292",
+          "id": "int-292",
           "name": "INT-292",
           "shortName": null,
           "version": "0.45",
@@ -245,7 +234,6 @@
           "payload": "Generate Label",
           "targetApplicationId": "social_innovation",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Andie MacVanamy",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -258,7 +246,7 @@
           "golive_date": "28/8/14"
         },
         {
-          "assetId": "int-021",
+          "id": "int-021",
           "name": "INT-021",
           "shortName": null,
           "version": "3",
@@ -266,7 +254,6 @@
           "payload": "Product Primary Color Hierarchy Size Hierarchy",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Muhammad Cammack",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -279,7 +266,7 @@
           "golive_date": "19/4/12"
         },
         {
-          "assetId": "int-030",
+          "id": "int-030",
           "name": "INT-030",
           "shortName": null,
           "version": "4",
@@ -287,7 +274,6 @@
           "payload": "ASN",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gilberto Thompkins",
           "status_color": "#0000FF",
           "department": "Integration",
@@ -300,7 +286,7 @@
           "golive_date": "30/10/11"
         },
         {
-          "assetId": "int-191",
+          "id": "int-191",
           "name": "INT-191",
           "shortName": null,
           "version": "0.9.4",
@@ -308,7 +294,6 @@
           "payload": "Movement - CRC Advice",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Adelice Passby",
           "status_color": "#00FF00",
           "department": "Integration",
